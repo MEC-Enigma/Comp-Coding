@@ -1,3 +1,0 @@
-The Fibonacci series is an interesting series of numbers which are dependant on the past two values of the series, based on the recursive relation f(n) = f(n-1) + f(n-2).
-
-As asking a question based on the fibonacci sequence would be boring and cliche, your task is to write a recursive code solving the recursive relation f(n) = f(n-1)^(n-1) + f(n-2)^(n-2).

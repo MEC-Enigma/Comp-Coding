@@ -1,3 +1,0 @@
-You are given an Array containing many integers, find the subarray with the largest sum.
-
-(Make your own examples to test your code).

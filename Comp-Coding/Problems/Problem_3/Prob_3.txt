@@ -1,0 +1,1 @@
+Find an efficient way to find the Nth prime in the series of natural numbers, Brute force will take you far but will it help if I asked you to find the 42,000th prime?

@@ -1,0 +1,6 @@
+Let start off with a simple one... 
+Have you heard of the convex hull problem?, it involves a very simple problem statement with a deceptively simple solution, however depending on your approach and ingenuity your solution could take 15 seconds or 15 minutes, so code effectively (HINT: Brute force is not the answer).
+
+Problem : You are given a set of points on a 2-d plane, you have to come up with the points that form the boundary of the entire set of points, i.e find the points that make up the boundary of all the points given to you.
+
+Also pls dont look up the answers online, that kinda violates the purpose of the whole problem.

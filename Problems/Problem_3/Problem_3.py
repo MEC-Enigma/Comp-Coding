@@ -7,7 +7,7 @@ def isPrime(n):
         return False
 
     # All primes above 3 are neighbors of a multiple of 6
-    if True and n>3 and (n+1) % 6 != 0 and (n-1) % 6 != 0:
+    if n>3 and (n+1) % 6 != 0 and (n-1) % 6 != 0:
         return False
 
     # For the rest, we check up to sqrt(n) for factors

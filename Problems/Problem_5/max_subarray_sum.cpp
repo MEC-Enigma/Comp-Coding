@@ -11,34 +11,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-#include <cstdio>
-#include <cstring>
-#include <cmath>
-#include <cstring>
-#include <complex>
-#define endl "\n"
-#define st string 
-#define vs vector<st>
-#define rep(i,m,n) for(ll i = m; i < n; i++)
-#define off ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0)
-#define ll long long int
-#define vi vector<int>
-#define vll vector<ll>
-#define vvi vector < vi >
-#define pii pair<int,int>
-#define pll pair<long long, long long>
-#define mod 1000000007
-#define inf 1000000000000000001;
-#define all(c) c.begin(),c.end()
-#define mp(x,y) make_pair(x,y)
-#define mem(a,val) memset(a,val,sizeof(a))
-#define dbg(x) cout << #x << " = " << x << '\n'
-#define pb push_back
-#define F first
-#define S second
-
 int max(int a, int b, int c) { return max(max(a, b), c); } 
-
 
 int maxCrossingSum(int arr[], int l, int m, int h) 
 { 

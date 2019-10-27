@@ -50,9 +50,6 @@ int maxSubArraySum(int arr[], int l, int h)
 
 int main() 
 {
-	off;
-	// freopen("input.txt", "r", stdin);
-	// freopen("output.txt", "w", stdout);
 	int n;
 	cout<<"enter array size\n";
 	cin>>n;

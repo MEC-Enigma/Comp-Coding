@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 class Main{
 	static double rec(double n){
-		if(n == 1 || n == 2){
+		if(n == 1 || n == 0){
 			return n-1;
 		}
 		else{

@@ -4,11 +4,11 @@ using namespace std;
 
 bool isPrime(long long int N){
     //2 is the only even prime
-    if(N==2){
+    if(N==2 || N==3){
         return true;
     }
-    //all other even numbers are non-prime
-    else if(N % 2 == 0){
+    //Non-neighbours of 6 except 2 and 3 are non-primes
+    else if(N%6!=1 && N%6!=5){
         return false;
     }
     //we only need to check if any odd number less
